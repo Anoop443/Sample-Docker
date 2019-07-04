@@ -1,0 +1,19 @@
+tcp6       0      0 :::5666                 :::*                    LISTEN      8490/nrpe 
+tcp6       0      0 :::5666                 :::*                    LISTEN      8490/nrpe 
+tcp6       0      0 :::5666                 :::*                    LISTEN      8490/nrpe 
+tcp6       0      0 :::5666                 :::*                    LISTEN      8490/nrpe 
+
+tcp6       0      0 :::5666                 :::*                    LISTEN      8490/nrpe 
+tcp6       0      0 :::5666                 :::*                    LISTEN      8490/nrpe 
+tcp6       0      0 :::5666                 :::*                    LISTEN      8490/nrpe 
+
+tcp6       0      0 :::5666                 :::*                    LISTEN      8490/nrpe tcp6       0      0 :::5666                 :::*                    LISTEN      8490/nrpe 
+
+tcp6       0      0 :::5666                 :::*                    LISTEN      8490/nrpe 
+tcp6       0      0 :::5666                 :::*                    LISTEN      8490/nrpe 
+tcp6       0      0 :::5666                 :::*                    LISTEN      8490/nrpe 
+tcp6       0      0 :::5666                 :::*                    LISTEN      8490/nrpe tcp6       0      0 :::5666                 :::*                    LISTEN      8490/nrpe 
+
+tcp6       0      0 :::5666                 :::*                    LISTEN      8490/nrpe 
+tcp6       0      0 :::5666                 :::*                    LISTEN      8490/nrpe 
+tcp6       0      0 :::5666                 :::*                    LISTEN      8490/nrpe
